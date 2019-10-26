@@ -65,7 +65,7 @@ and we especially value contributions in this area.
 
 ### Specific new features for a project
 
-Our docs cover many projects which release at different times. **If, and only if,
+Our docs cover many projects which is release at different times. **If, and only if,
 your pull request relates to a currently unreleased feature of a project, base
 your work on that project's `vnext` branch.** These branches were created by
 cloning `master` and then importing a project's `master` branch's docs into it
